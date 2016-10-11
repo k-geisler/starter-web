@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Karsten Geisler -- design@karsten-geisler.de -- @karstengeisler
 
 # THANKS
 
