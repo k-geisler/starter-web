@@ -14,4 +14,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Make changes
 
 ### Copyright
-2016 Git.Training
+2016 Git.Training. All rights reserved.
